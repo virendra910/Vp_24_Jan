@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+}
+
+header {
+    text-align: center;
+    color: royalblue;
+    font-size: larger;
+}
+
+#hr{
+    height: 5px;
+    background-color: red;
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 5px;
+  }
+
+  form{
+      display: inline-flexbox;
+      border: 3px solid green;
+      margin: 20px;
+      padding: 50px;
+  }
+
+.fdiv{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: greenyellow;
+}
